@@ -50,10 +50,10 @@ http://localhost:8080/cliente/{id que desejar }
 <p align="center">
     <img src="https://img.shields.io/badge/adamy.g@hotmail.com-orange?logo=Hotmail&style=flat"/>
     <a href="https://www.linkedin.com/in/gabriel-adamy/">
-        <img src="https://img.shields.io/badge/gabriel--adamy-orange?logo=Linkedin&style=flat"/>
+        <img src="https://img.shields.io/badge/gabriel--adamy-blue?logo=Linkedin&style=flat"/>
     </a>
     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551984417299">
-        <img src="https://img.shields.io/badge/Gabriel%20Ad%C3%B4amy-green?logo=Whatsapp&style=flat" />
+        <img src="https://img.shields.io/badge/Gabriel%20Adamy-green?logo=Whatsapp&style=flat" />
     </a>
     
 </p>
