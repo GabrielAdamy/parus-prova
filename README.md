@@ -44,3 +44,17 @@ http://localhost:8080/cliente/{id que deseja atualizar}
 http://localhost:8080/cliente/{id que desejar }
 
 ![Parus](https://github.com/GabrielAdamy/parus-prova/blob/main/.Imagens/delete.png)
+
+<h1 align="center">Gabriel Adamy developer Student</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/adamy.g@hotmail.com-orange?logo=Hotmail&style=flat"/>
+    <a href="https://www.linkedin.com/in/gabriel-adamy/">
+        <img src="https://img.shields.io/badge/gabriel--adamy-orange?logo=Linkedin&style=flat"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551984417299">
+        <img src="https://img.shields.io/badge/Wesley%20Fl%C3%B4res-green?logo=Whatsapp&style=flat" />
+    </a>
+    <img src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social"/>
+    <img src="https://img.shields.io/github/license/MagicalStrangeQuark/MagicalStrangeQuark"/>
+</p>
