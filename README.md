@@ -53,8 +53,7 @@ http://localhost:8080/cliente/{id que desejar }
         <img src="https://img.shields.io/badge/gabriel--adamy-orange?logo=Linkedin&style=flat"/>
     </a>
     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551984417299">
-        <img src="https://img.shields.io/badge/Wesley%20Fl%C3%B4res-green?logo=Whatsapp&style=flat" />
+        <img src="https://img.shields.io/badge/Gabriel%20Ad%C3%B4amy-green?logo=Whatsapp&style=flat" />
     </a>
-    <img src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social"/>
-    <img src="https://img.shields.io/github/license/MagicalStrangeQuark/MagicalStrangeQuark"/>
+    
 </p>
