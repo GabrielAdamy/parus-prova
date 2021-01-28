@@ -48,7 +48,7 @@ http://localhost:8080/cliente/{id que desejar }
 <h1 align="center">Gabriel Adamy developer Student</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/adamy.g@hotmail.com-orange?logo=Hotmail&style=flat"/>
+    <img src="https://img.shields.io/badge/adamy.g@hotmail.com-blue?logo=Hotmail&style=flat"/>
     <a href="https://www.linkedin.com/in/gabriel-adamy/">
         <img src="https://img.shields.io/badge/gabriel--adamy-blue?logo=Linkedin&style=flat"/>
     </a>
