@@ -1,5 +1,5 @@
 # Executar a API
-Não é preciso confugurar pois esta sendo utilizado um banco de dados em memoria.
+Não é preciso configurar pois esta sendo utilizado um banco de dados em memoria.
 
 # Abrir o programa POSTMAN
 
